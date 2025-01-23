@@ -149,9 +149,9 @@ async fn main() -> std::io::Result<()> {
             name: "Room 1".to_string(),
             available: true,
             owner_info: OwnerInfo {
-                contact_name: "John Doe".to_string(),
-                email: "john.doe@example.com".to_string(),
-                phone_number: "+1-555-1234".to_string(),
+                contact_name: "Alexey Vladimirovich".to_string(),
+                email: "Alex.vlad@mail.ru".to_string(),
+                phone_number: "+8-800-5555".to_string(),
             },
         },
         Room {
@@ -159,9 +159,9 @@ async fn main() -> std::io::Result<()> {
             name: "Room 2".to_string(),
             available: true,
             owner_info: OwnerInfo {
-                contact_name: "Jane Smith".to_string(),
-                email: "jane.smith@example.com".to_string(),
-                phone_number: "+1-555-5678".to_string(),
+                contact_name: "Ivan Vasilyevich".to_string(),
+                email: "ivan.vas@mail.ru".to_string(),
+                phone_number: "+8-464-2345".to_string(),
             },
         },
         Room {
@@ -169,9 +169,9 @@ async fn main() -> std::io::Result<()> {
             name: "Room 3".to_string(),
             available: true,
             owner_info: OwnerInfo {
-                contact_name: "Alice Johnson".to_string(),
-                email: "alice.johnson@example.com".to_string(),
-                phone_number: "+1-555-9012".to_string(),
+                contact_name: "Dima Fedorovich".to_string(),
+                email: "Dima.dvfu@gmail.com".to_string(),
+                phone_number: "+8-565-5212".to_string(),
             },
         },
     ];
